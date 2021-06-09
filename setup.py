@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
 
 setuptools.setup(
-  name="pyInvestor",
+  name="quantumtw",
   version="0.0.1",
   author="TENG-LIN YU",
   author_email="tlyu0419@gmail.com",
   description="It's my toy project",
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url="https://github.com/TLYu0419/pyInvestor",
+  url="https://github.com/TLYu0419/quantumtw",
   packages=setuptools.find_packages(),
   classifiers=[
   "Programming Language :: Python :: 3",

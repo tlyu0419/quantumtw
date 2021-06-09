@@ -1,4 +1,4 @@
-# pyInvestor
+# quantumtw
 This project is developed by TENG-LIN YU. You can contact me by following methods:
 - Mail: tlyu0419@gmail.com
 - Facebook: https://www.facebook.com/tlyu0419

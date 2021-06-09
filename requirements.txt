@@ -1,7 +1,11 @@
-quandl
+re
 matplotlib
 numpy
-fbprophet
-pystan
+pystan==2.19.1.1
+prophet
 pandas
-pytrends
+requests
+bs4
+time
+datetime
+plotly
